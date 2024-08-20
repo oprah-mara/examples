@@ -155,8 +155,9 @@ nav{
 }
 .Travel-banner > img{
     /* max-width: 16rem; */
+    margin-left: 10rem;
     max-width: 10rem;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     object-fit: cover;
 }
 button{
